@@ -1,0 +1,24 @@
+.timer__background{
+    background: #E91E63;
+    color: #fff;
+    padding: 40px 60px;
+    margin: 0 auto;
+    width: 600px;
+    font-family: 'Roboto', sans-serif;
+}
+.blocks{
+    width: 25%;
+    display: inline-block;
+    text-align: center;
+}
+
+.title{
+    font-size: 14px;
+    font-weight: 900;
+}
+
+.number{
+    font-size: 74px;
+    font-family: Roboto;
+    font-weight: 100;
+}

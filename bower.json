@@ -1,0 +1,35 @@
+{
+  "name": "Timer",
+  "version": "1.0.0",
+  "authors": [
+    "ravichandra480@gmail.com"
+  ],
+  "description": "Timer",
+  "license": "Commercial",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.5.x",
+    "angular-sanitize": "1.5.x",
+    "angular-touch": "1.5.x",
+    "modernizr": "git://github.com/modernizr/modernizr.git#~2.8.3",
+    "modernizr-ie": "git://github.com/suderman/modernizr-ie",
+    "modernizr-retina-test": "git://github.com/joaocunha/modernizr-retina-test.git#1.0.0",
+    "angular-ui-router": "~0.2.18",
+    "angular-timer": "git@github.com:siddii/angular-timer.git"
+  },
+  "devDependencies": {
+    "angular-mocks": "1.5.x"
+  },
+  "resolutions": {
+    "angular": "1.5.x",
+    "angular-touch": "1.5.x",
+    "angular-sanitize": "1.5.x"
+  }
+}

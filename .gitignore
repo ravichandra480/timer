@@ -1,0 +1,14 @@
+.DS_Store
+node_modules
+dist
+lib
+.idea
+.tmp
+.sass-cache
+coverage
+tests/test-reports
+inlinestyles.json
+tests/karma.conf.wiredep.js
+scss-lint-report.xml
+/PhantomJS*
+npm-debug.log
