@@ -193,11 +193,12 @@ body {
     margin: 0 auto;
     width: 600px;
     font-family: 'Roboto', sans-serif;
+    text-align: center;
 }
 .blocks{
-    width: 25%;
     display: inline-block;
     text-align: center;
+    padding: 0 20px;
 }
 
 .title{
