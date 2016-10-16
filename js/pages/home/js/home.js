@@ -12,8 +12,8 @@
         var i = 1;
 
         var $ctrl = this;
-        var day = 11;
-        var month = 10;
+        var day = 31;
+        var month = 9;
         var year = 2016;
 
         var dest = new Date(year, month, day);
